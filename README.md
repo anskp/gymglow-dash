@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
 
-## Project info
 
-**URL**: https://lovable.dev/projects/e0c84096-2d00-4868-a131-ea1295a80a72
+## Live Demo
+
+**URL**:(https://gymglow-dash.vercel.app/)
 
 ## How can I edit this code?
 
